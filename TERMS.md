@@ -1,0 +1,76 @@
+# WiramusFrame Kullanım Şartları ve Sorumluluk Reddi
+
+*Son güncelleme: 6 Kasım 2026. [English version below](#english).*
+
+WiramusFrame'i ("Yazılım") indirerek, kurarak veya kullanarak aşağıdaki şartları okuduğunu,
+anladığını ve kabul ettiğini beyan edersin. Kabul etmiyorsan Yazılım'ı kullanma ve bilgisayarından kaldır.
+
+## 1. Bağımsız proje
+
+Yazılım gönüllüler tarafından geliştirilen bağımsız bir hayran projesidir. **Digital Extremes Ltd.,
+Warframe, warframe.market veya herhangi bir oyun şirketi ile hiçbir bağı yoktur**; bu şirketler tarafından
+onaylanmamış, desteklenmemiş veya denetlenmemiştir. Warframe ve ilgili adlar sahiplerinin markalarıdır.
+
+## 2. Riskin tamamı kullanıcıya aittir
+
+- Digital Extremes, oyunla birlikte kullanılan harici yazılımların **kullanım riskinin tamamen kullanıcıya ait
+  olduğunu** açıkça belirtmektedir. Yazılım'ı kullanıp kullanmamak yalnızca senin kararındır.
+- Yazılım'ın kullanımı nedeniyle oluşabilecek **hesap uyarısı, geçici veya kalıcı hesap askıya alınması (ban),
+  hesap kısıtlaması, eşya/platin kaybı, ticaret kısıtlaması, veri kaybı, donanım veya yazılım arızası** ve
+  benzeri her türlü doğrudan veya dolaylı zarardan **geliştiriciler, katkıda bulunanlar ve bağış alanlar hiçbir
+  şekilde sorumlu değildir** ve hiçbir tazminat, iade veya destek yükümlülüğü kabul etmez.
+- Oyun şirketinin kuralları her an değişebilir. Kurallara uyup uymadığını kontrol etmek kullanıcının sorumluluğundadır.
+
+## 3. Otomatik envanter (bellek okuma) özelliği
+
+- "Otomatik envanter" özelliği **varsayılan olarak kapalıdır**. Açıldığında oyunun çalışma belleğinden oturum
+  bilgisini okur. Bu yöntem **Warframe Son Kullanıcı Lisans Sözleşmesi'ne (EULA) aykırı sayılabilir ve hesabının
+  askıya alınmasına (ban) yol açabilir.**
+- Bu özelliği yalnızca uygulama içindeki ayrı uyarıyı okuyup **"tüm sonuçların sorumluluğunun bana ait olduğunu
+  kabul ediyorum"** onayını verdikten sonra açabilirsin. Bu onayı vererek, bu özelliğin kullanımından doğabilecek
+  ban dahil **her türlü sonucun yalnızca sana ait olduğunu**, geliştiricilerden hiçbir talepte bulunmayacağını
+  kabul edersin.
+- Riskten kaçınmak istiyorsan bu özelliği kapalı bırak; envanterini JSON dosyası olarak içe aktarabilirsin.
+
+## 4. Garanti yoktur
+
+Yazılım **"OLDUĞU GİBİ"**, hiçbir açık veya örtülü garanti olmaksızın sunulur. Fiyatların, ducat değerlerinin,
+OCR ile okunan eşya adlarının, ustalık hesaplarının ve diğer bilgilerin doğru, güncel veya eksiksiz olacağı garanti
+edilmez. Yazılım'daki bilgilere dayanarak yaptığın alım, satım, takas ve diğer kararlar senin sorumluluğundadır.
+Bu bölüm, Yazılım'ın lisansı olan GNU GPL v3'ün 15. ve 16. maddeleriyle (garanti yokluğu, sorumluluğun sınırlandırılması) birlikte geçerlidir.
+
+## 5. Veriler ve gizlilik
+
+- Ayarların ve envanterin yalnızca kendi bilgisayarında (`%APPDATA%\WiramusFrame`) saklanır. Yazılım reklam,
+  analitik veya telemetri içermez ve kişisel verini geliştiricilere göndermez.
+- Fiyatlar warframe.market'ten, oyun verileri Digital Extremes'in herkese açık dışa aktarımlarından çekilir.
+  warframe.market'e giriş yaparsan oturum bilgin şifrelenmiş olarak yalnızca bilgisayarında tutulur ve yalnızca
+  warframe.market'e gönderilir. Bu hizmetlerin kendi kullanım şartları geçerlidir.
+
+## 6. Bağışlar
+
+Bağışlar tamamen gönüllüdür. Bağış yapmak ek özellik, öncelikli destek, garanti, iade hakkı veya herhangi bir
+sözleşmesel hak doğurmaz.
+
+## 7. Değişiklikler
+
+Bu şartlar güncellenebilir. Güncel sürüm her zaman bu dosyadadır. Yazılım'ı kullanmaya devam etmen güncel şartları
+kabul ettiğin anlamına gelir.
+
+---
+
+## English
+
+By downloading, installing or using WiramusFrame you accept these terms. If you do not, do not use it.
+
+1. **Unofficial.** Not affiliated with, endorsed or approved by Digital Extremes, Warframe or warframe.market.
+2. **Use entirely at your own risk.** The authors, contributors and donation recipients accept **no liability whatsoever**
+   for any account warning, suspension or **ban**, loss of items or platinum, trade restriction, data loss or any other
+   direct or indirect damage arising from using the software, and owe no compensation, refund or support.
+3. **Automatic inventory (memory reading)** is **off by default**. It reads the game's memory and **may violate the
+   Warframe EULA and get your account banned.** It can only be enabled after a separate in-app warning where you confirm
+   that **all consequences are solely your responsibility**.
+4. **No warranty.** Provided "AS IS", without warranty of any kind (see also GPL-3.0 sections 15 and 16). Prices, OCR results
+   and calculations may be wrong; your trading decisions are your own.
+5. **Privacy.** Data stays on your computer. No ads, analytics or telemetry.
+6. **Donations** are voluntary and create no rights to features, support or refunds.

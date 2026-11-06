@@ -1,0 +1,33 @@
+appId: com.wiramus.wiramusframe
+productName: WiramusFrame
+directories:
+  output: release
+copyright: Copyright © 2026 Wiramus — GPL-3.0
+files:
+  - dist/**
+  - dist-electron/**
+  - package.json
+  - LICENSE
+  - TERMS.md
+extraResources:
+  - from: resources
+    to: app-res
+asarUnpack:
+  - node_modules/tesseract.js/**
+  - node_modules/tesseract.js-core/**
+  - node_modules/koffi/**
+win:
+  target: nsis
+  icon: resources/icon.png
+  # İmza: CSC_LINK (pfx yolu/base64) ve CSC_KEY_PASSWORD ortam değişkenleri varsa electron-builder otomatik imzalar.
+  signtoolOptions:
+    publisherName: Wiramus
+nsis:
+  oneClick: false
+  license: build/license.txt
+  perMachine: false
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  artifactName: WiramusFrame-Setup-${version}.${ext}
+  allowToChangeInstallationDirectory: true
+  shortcutName: WiramusFrame

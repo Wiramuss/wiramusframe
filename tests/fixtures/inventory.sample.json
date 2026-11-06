@@ -1,0 +1,1741 @@
+{
+"PlayerLevel": 18,
+"PremiumCredits": 742,
+"RegularCredits": 18450210,
+"PrimeTokens": 3150,
+"FusionPoints": 412300,
+"MiscItems": [
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/MesaPrimeBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/BansheePrimeSystemsBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/PrimeCernosBlueprint",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/FangPrimeBlueprint",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/AkstilettoPrimeBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/OberonPrimeBlueprint",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/LimboPrimeHelmetBlueprint",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/TatsuPrimeBlade",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/InarosPrimeSystemsBlueprint",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/MagnusPrimeBarrel",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeHelmetBlueprint",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/KhoraPrimeChassisBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/AkbroncoPrimeBlueprint",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/BratonPrimeBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeVenkaClawsGauntlet",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/BaruukPrimeChassisBlueprint",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/VastoPrimeReceiver",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/WukongPrimeChassisBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Upgrades/Mods/Immortal/ImmortalEightMod",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/LatronPrimeStock",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/AklexPrimeBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/Prime1HShotgunBarrel",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/PrimeDualKamasBlueprint",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Kubrow/Collars/PrimeKubrowCollarABlueprint",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/SarynPrimeChassisBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/ZhugePrimeBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/AlternoxPrimeReceiver",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/VeloxPrimeReceiver",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/RhinoPrimeChassisBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/AfurisPrimeBlueprint",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkstilettoPrimeLink",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Upgrades/Mods/Immortal/ImmortalFiveMod",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/KhoraPrimeBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/DestrezaPrimeBlade",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/LavosPrimeChassisBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/BratonPrimeReceiver",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/AstillaPrimeBarrel",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/NinkondiPrimeBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/EmberPrimeHelmetBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBowUpperLimb",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/StradavarPrimeBarrel",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/NezhaPrimeChassisBlueprint",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/CorvasPrimeReceiver",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/HildrynPrimeHelmetBlueprint",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/ScourgePrimeBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeReceiver",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeHelmetBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/GyrePrimeChassisBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/EquinoxPrimeBlueprint",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/AthodaiPrimeBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/QuassusPrimeBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/HildrynPrimeSystemsBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/ZhugePrimeStock",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/LimboPrimeChassisBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/TipedoPrimeHandle",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/ZaktiPrimeReceiver",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaUpperLimb",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/BurstonPrimeStock",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeBlueprint",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/CobraCranePrimeHandle",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/BoltorPrimeBarrel",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/ZephyrPrimeBlueprint",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/PangolinPrimeBlueprint",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/GyrePrimeSystemsBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/TitaniaPrimeChassisBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Upgrades/Mods/Immortal/ImmortalSevenMod",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeChassisBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeCarrierSystems",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/CorvasPrimeStock",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/PhantasmaPrimeBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/AkjagaraPrimeBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkboltoPrimeLink",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/GaraPrimeSystemsBlueprint",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/BazaPrimeBlueprint",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/ZaktiPrimeBlueprint",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/AfentisPrimeBlade",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/HystrixPrimeBarrel",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/PantheraPrimeBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/GrendelPrimeChassisBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/ZephyrPrimeHelmetBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/AfentisPrimeBarrel",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/ZephyrPrimeSystemsBlueprint",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeScytheBlade",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/GramPrimeHandle",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBowString",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/OctaviaPrimeBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/OkinaPrimeBlueprint",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Upgrades/Mods/Immortal/ImmortalFourMod",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/FulminPrimeBlueprint",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/NagantakaPrimeBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/NagantakaPrimeStock",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/VentoPrimeBlade",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/RubicoPrimeBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/WukongPrimeHelmetBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/ValkyrPrimeSystemsBlueprint",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/MagPrimeHelmetBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/GyrePrimeBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/KnellPrimeBlueprint",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeTigrisBarrel",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/StrunPrimeReceiver",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/CorvasPrimeBarrel",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/BansheePrimeHelmetBlueprint",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCerebrum",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/GaraPrimeHelmetBlueprint",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/HildrynPrimeBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/AcceltraPrimeStock",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/StradavarPrimeReceiver",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeWyrmCarapace",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/VectisPrimeBarrel",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PyranaPrimeReceiver",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/StradavarPrimeBlueprint",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/RubicoPrimeBarrel",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeSystemsBlueprint",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeChassisBlueprint",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeGalatineBlade",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/BroncoPrimeBlueprint",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/TenoraPrimeStock",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/NezhaPrimeHelmetBlueprint",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/PrimeDaikyuBlueprint",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T3VoidProjectionWispPrimeDSilver",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultASilver",
+"ItemCount": 7
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T1VoidProjectionZephyrPrimeBBronze",
+"ItemCount": 5
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T1VoidProjectionGGold",
+"ItemCount": 6
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T2VoidProjectionFrostMagVaultABronze",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeDGold",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T1VoidProjectionCitrinePrimeCBronze",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T3VoidProjectionIvaraPrimeAPlatinum",
+"ItemCount": 5
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T4VoidProjectionProteaPrimeABronze",
+"ItemCount": 6
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T4VoidProjectionRevenantPrimeABronze",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T1VoidProjectionYareliPrimeBSilver",
+"ItemCount": 5
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T2VoidProjectionLimboPrimeDBronze",
+"ItemCount": 8
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T2VoidProjectionIPlatinum",
+"ItemCount": 5
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T2VoidProjectionGaussPrimeBPlatinum",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T4VoidProjectionFPlatinum",
+"ItemCount": 5
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T2VoidProjectionHildrynPrimeCBronze",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T4VoidProjectionMesaPrimeBSilver",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T4VoidProjectionAtlasPrimeEBronze",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T4VoidProjectionNovaTrinityVaultASilver",
+"ItemCount": 5
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T1VoidProjectionWukongEquinoxVaultAPlatinum",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T4VoidProjectionNyxValkyrRailjackASilver",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T1VoidProjectionLimboPrimeDSilver",
+"ItemCount": 8
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T3VoidProjectionTSilver",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T2VoidProjectionWukongPrimeABronze",
+"ItemCount": 7
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T4VoidProjectionHydroidPrimeCSilver",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T2VoidProjectionBansheeMirageVaultABronze",
+"ItemCount": 6
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeABronze",
+"ItemCount": 5
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T2VoidProjectionABronze",
+"ItemCount": 8
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T1VoidProjectionWukongEquinoxVaultBPlatinum",
+"ItemCount": 7
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T4VoidProjectionStyanaxPrimeAPlatinum",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothHydroidVaultABronze",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T4VoidProjectionMesaPrimeABronze",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T2VoidProjectionTitaniaPrimeBSilver",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaOctaviaVaultBGold",
+"ItemCount": 3
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T1VoidProjectionYareliPrimeCBronze",
+"ItemCount": 5
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T2VoidProjectionCalibanPrimeASilver",
+"ItemCount": 1
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T2VoidProjectionGrendelPrimeESilver",
+"ItemCount": 4
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T3VoidProjectionIvaraOberonVaultABronze",
+"ItemCount": 2
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultASilver",
+"ItemCount": 7
+},
+{
+"ItemType": "/Lotus/Types/Game/Projections/T3VoidProjectionYPlatinum",
+"ItemCount": 3
+}
+],
+"Recipes": [],
+"Suits": [
+{
+"ItemType": "/Lotus/Powersuits/Alchemist/Alchemist",
+"XP": 100000,
+"ItemId": {
+"$oid": "eb1fa9f2d10bd1d033173470"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Revenant/RevenantPrime",
+"XP": 900000,
+"ItemId": {
+"$oid": "d20eac174e20fd1a598336e3"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Berserker/Berserker",
+"XP": 100000,
+"ItemId": {
+"$oid": "a8f7ef5a060edf5b39118497"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Sentient/Sentient",
+"XP": 100000,
+"ItemId": {
+"$oid": "475287aa5408f9ac6601ddd0"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Cowgirl/Cowgirl",
+"XP": 0,
+"ItemId": {
+"$oid": "4774bc58c5f8bc16f7860b50"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/ConcreteFrame/ConcreteFrame",
+"XP": 900000,
+"ItemId": {
+"$oid": "6651529e8268690ba43825b5"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Saryn/SarynPrime",
+"XP": 900000,
+"ItemId": {
+"$oid": "1d8709660710d430f071d879"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Necro/NekrosPrime",
+"XP": 900000,
+"ItemId": {
+"$oid": "f668a61794a1875d2db69edb"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Yareli/Yareli",
+"XP": 900000,
+"ItemId": {
+"$oid": "98b8e4cc1bc044fc09cb3942"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Bard/Bard",
+"XP": 900000,
+"ItemId": {
+"$oid": "c9535b63ba81edd9587ef344"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Duelist/Duelist",
+"XP": 900000,
+"ItemId": {
+"$oid": "fbf6e16f9b3080d56fb78271"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Pacifist/Pacifist",
+"XP": 0,
+"ItemId": {
+"$oid": "939b462de645f129629c2ae3"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Dagath/Dagath",
+"XP": 100000,
+"ItemId": {
+"$oid": "b572f3d00b5cea6a41357e8c"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Bard/OctaviaPrime",
+"XP": 900000,
+"ItemId": {
+"$oid": "ecf27e7685197ff4006ed6e3"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Banshee/Banshee",
+"XP": 100000,
+"ItemId": {
+"$oid": "11e9cdaa6e6981a35d3d9e56"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Frost/FrostPrime",
+"XP": 900000,
+"ItemId": {
+"$oid": "a9d3c2e6505cc6869f871ce7"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Brawler/AtlasPrime",
+"XP": 0,
+"ItemId": {
+"$oid": "4ce1eb90e6697833b841d0a0"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Revenant/Revenant",
+"XP": 900000,
+"ItemId": {
+"$oid": "5380b904688c7015aab97e49"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Priest/Priest",
+"XP": 900000,
+"ItemId": {
+"$oid": "8dedf9fb4bb00f20b27c4026"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/AntiMatter/NovaPrime",
+"XP": 100000,
+"ItemId": {
+"$oid": "aa38d0a16ba25efe311c6eb6"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Excalibur/ExcaliburUmbra",
+"XP": 900000,
+"ItemId": {
+"$oid": "e71e43a6bf85bf0ead64b56c"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Trinity/Trinity",
+"XP": 100000,
+"ItemId": {
+"$oid": "4d0b0d1a91b0e1d99d9262af"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Ninja/Ninja",
+"XP": 900000,
+"ItemId": {
+"$oid": "001a9a8bd56f03508c459ce2"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Wraith/Wraith",
+"XP": 900000,
+"ItemId": {
+"$oid": "6e0d264835ce884149732d6c"
+}
+},
+{
+"ItemType": "/Lotus/Powersuits/Loki/LokiPrime",
+"XP": 900000,
+"ItemId": {
+"$oid": "713162697118e36477097749"
+}
+}
+],
+"LongGuns": [
+{
+"ItemType": "/Lotus/Weapons/Corpus/LongGuns/CrpBFG/CrpBFG",
+"XP": 50000,
+"ItemId": {
+"$oid": "624c69b6b24445a7b7e58481"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/LongGuns/PrimeStrun/PrimeStrunWeapon",
+"XP": 450000,
+"ItemId": {
+"$oid": "25c73c443e75c3b4664fa663"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Grineer/LongGuns/GrnHarpoonGun/GrnHarpoonGun",
+"XP": 0,
+"ItemId": {
+"$oid": "dc45d539c03f3538e4855aa1"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Infested/InfestedLich/LongGuns/CodaBubonico/CodaBubonicoCannon",
+"XP": 0,
+"ItemId": {
+"$oid": "3805f9076cd66193c7468f59"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/ClanTech/Energy/DeraVandal",
+"XP": 50000,
+"ItemId": {
+"$oid": "b227462cf53d4330cdda24ba"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/LongGuns/SapientPrimary/SapientPrimaryWeapon",
+"XP": 450000,
+"ItemId": {
+"$oid": "3fcb75468eb225790cdb1ca4"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/LongGuns/CrpRubanRifle/CrpRubanRifle",
+"XP": 0,
+"ItemId": {
+"$oid": "cd29a36f222282e174daaebf"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Rifle/BratonPrime",
+"XP": 450000,
+"ItemId": {
+"$oid": "fce6850487f8424daae65fc1"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/LongGuns/PrimeAfentis/PrimeAfentisWeapon",
+"XP": 450000,
+"ItemId": {
+"$oid": "e4347d51c1581092f335cba3"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Grineer/LongGuns/GrnGrenadeLauncher/GrnGrenadeLauncher",
+"XP": 450000,
+"ItemId": {
+"$oid": "b8225688d0a444329cd6c852"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/LongGuns/CrpFreezeRay/CrpFreezeRayRifle",
+"XP": 450000,
+"ItemId": {
+"$oid": "8c41561be827a1b9d4a02e53"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/LongGuns/CrpShotgun/CrpShotgun",
+"XP": 450000,
+"ItemId": {
+"$oid": "be6033f728be9288e5af6e39"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/LongGuns/Machinegun/SupraVandal",
+"XP": 450000,
+"ItemId": {
+"$oid": "c074718e425a609f7337c599"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Bows/PrimeHuntingBow",
+"XP": 50000,
+"ItemId": {
+"$oid": "46fde062a33dc7afd701410d"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/LongGuns/WraithLatron/WraithLatron",
+"XP": 450000,
+"ItemId": {
+"$oid": "464c04af3d3f3799a07295e9"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/LongGuns/PrimePerigale/PrimePerigaleSniper",
+"XP": 450000,
+"ItemId": {
+"$oid": "49257af1b6aae05b13d5f2f7"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Cephalon/Primary/CephPrimary/CephPrimary",
+"XP": 50000,
+"ItemId": {
+"$oid": "51d87c6455fa1ab8458f1f19"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/LongGuns/GarudaCrossbow/GarudaCrossbow",
+"XP": 0,
+"ItemId": {
+"$oid": "3b33f3d8269cd696236c7b87"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/LongGuns/PrimeSoma/PrimeSomaRifle",
+"XP": 450000,
+"ItemId": {
+"$oid": "b4d7e28e271e3ee2b1a6b1f1"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/LongGuns/PrimeTigris/PrimeTigris",
+"XP": 50000,
+"ItemId": {
+"$oid": "68586eba6a34c85410714d51"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/LongGuns/TnHeavyShotgun/TnHeavyShotgunGun",
+"XP": 450000,
+"ItemId": {
+"$oid": "6a702e2f7746d0ba8ae8905b"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Shotgun/QuadShotgun",
+"XP": 0,
+"ItemId": {
+"$oid": "6b8e869fd5385b0e34f3193c"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Rifle/VIPRifle",
+"XP": 450000,
+"ItemId": {
+"$oid": "95863a76c51155ffe7a37e81"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/LongGuns/PrimeNagantaka/PrimeNagantakaWeapon",
+"XP": 0,
+"ItemId": {
+"$oid": "c3fe0183e172b725db52ca58"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/ClanTech/Chemical/FlameThrowerWraith",
+"XP": 450000,
+"ItemId": {
+"$oid": "f1578470018267c47a1b5806"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Grineer/Bows/GrnBow/GrnBowWeapon",
+"XP": 450000,
+"ItemId": {
+"$oid": "63d62a39c0e3befd4c71e0fe"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Rifle/LatronPrime",
+"XP": 450000,
+"ItemId": {
+"$oid": "bc10fa52bf5d2fdf89c8d2ab"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Infested/LongGuns/InfCrpShockSwarm/InfCrpShockSwarmRifle",
+"XP": 50000,
+"ItemId": {
+"$oid": "45df16b6382c043f7cfc9b79"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/MK1Series/MK1Strun",
+"XP": 450000,
+"ItemId": {
+"$oid": "638c254c076e2bba7c5308bf"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/LongGuns/CrpSplitLaser/CrpSplitLaser",
+"XP": 450000,
+"ItemId": {
+"$oid": "cc530e36addc3e13ab3b4d37"
+}
+}
+],
+"Pistols": [
+{
+"ItemType": "/Lotus/Weapons/Corpus/OperatorAmplifiers/Set1/Grip/CorpAmpSet1GripPartA",
+"XP": 0,
+"ItemId": {
+"$oid": "0d557b618a175dfebfc00dc8"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Syndicates/NewLoka/Pistols/NLCastanas",
+"XP": 450000,
+"ItemId": {
+"$oid": "1190f938a66fd7f739669fa7"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Handle/HandleTwo",
+"XP": 0,
+"ItemId": {
+"$oid": "f319c12507f194f9c1156d6d"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Pistol/CrossBow",
+"XP": 50000,
+"ItemId": {
+"$oid": "05379ff6d6d7b3b833094d35"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelBPart",
+"XP": 50000,
+"ItemId": {
+"$oid": "793b4c32205004943d114802"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/ThrowingWeapons/LiDagger/LiDagger",
+"XP": 0,
+"ItemId": {
+"$oid": "37cc863bf2a0345990604f62"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/OperatorAmplifiers/Set1/Barrel/CorpAmpSet1BarrelPartA",
+"XP": 450000,
+"ItemId": {
+"$oid": "c4536f1d41992fdfb31022f0"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Clip/SUModularStatIICapIClipPart",
+"XP": 450000,
+"ItemId": {
+"$oid": "9b7492459b1bc8952af43ab7"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Pistols/PrimeEpitaph/PrimeEpitaphSidearmWeapon",
+"XP": 0,
+"ItemId": {
+"$oid": "29ec8e49d1bdb8c0c71d5e60"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceDamageICritI",
+"XP": 450000,
+"ItemId": {
+"$oid": "0692dc639424aed51bac5c15"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Grimoire/TnGrimoire",
+"XP": 450000,
+"ItemId": {
+"$oid": "e87466d7ad66a1bd93676a02"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Handle/HandleOne",
+"XP": 450000,
+"ItemId": {
+"$oid": "b70b3420f1043785658b2523"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Infested/Pistols/InfestedDartPistol/InfestedDartPistol",
+"XP": 50000,
+"ItemId": {
+"$oid": "b0cc1b3b9793b9b413748146"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Pistols/SomaSidearm/AkimboSomaPistols",
+"XP": 50000,
+"ItemId": {
+"$oid": "c5c14eb4b27b3d901a16342c"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/Pistols/CrpHandRL/PrismaAngstrum",
+"XP": 450000,
+"ItemId": {
+"$oid": "99b49350af2b99b4d9acd158"
+}
+},
+{
+"ItemType": "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardInfestedB/HoverboardInfestedBEngine",
+"XP": 0,
+"ItemId": {
+"$oid": "90e0f4a0fbdd3933cbd58bf6"
+}
+},
+{
+"ItemType": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadTazron",
+"XP": 0,
+"ItemId": {
+"$oid": "6daa2e688861fe1858e25888"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Grineer/Pistols/GrnQueenGuardDualPistol/GrnQueenGuardDualPistols",
+"XP": 450000,
+"ItemId": {
+"$oid": "a5c5650c8186a57611a72609"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceSpeedIStatusI",
+"XP": 450000,
+"ItemId": {
+"$oid": "6b88f83dd97dc9cd033d2bce"
+}
+},
+{
+"ItemType": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadA",
+"XP": 450000,
+"ItemId": {
+"$oid": "f5f62c976efb63b11b049863"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/Pistols/CorpusHandShotgun/CorpusHandCannon",
+"XP": 450000,
+"ItemId": {
+"$oid": "d4262982e43e4288a2b5b498"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Infested/Pistols/InfKitGun/Clips/InfSmallClip/InfModularClipSmallPart",
+"XP": 450000,
+"ItemId": {
+"$oid": "6f7c15ea272a6d8eb5122df8"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/Pistols/CrpSonificBlastor/CrpBlastorWeapon",
+"XP": 50000,
+"ItemId": {
+"$oid": "f7294951859131d2bbda0242"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Pistols/PrimeHystrix/PrimeHystrixWeapon",
+"XP": 450000,
+"ItemId": {
+"$oid": "eb6c1016cee624d09dac6e83"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipFive",
+"XP": 450000,
+"ItemId": {
+"$oid": "d36357b66f81cf4f7701f7bb"
+}
+}
+],
+"Melee": [
+{
+"ItemType": "/Lotus/Weapons/Grineer/Melee/GrnEgyptSwd/DualGrnEgyptSwdWeapon",
+"XP": 450000,
+"ItemId": {
+"$oid": "8441aefd0299436a8e485223"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Syndicates/CephalonSuda/Melee/CSHeliocor",
+"XP": 50000,
+"ItemId": {
+"$oid": "b856d0353dc9829015eabb27"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Staff/TipedoPrime/TipedoPrimeWeapon",
+"XP": 450000,
+"ItemId": {
+"$oid": "c21714298e2007247d137018"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/PrimeNinkondi/PrimeNikondi",
+"XP": 50000,
+"ItemId": {
+"$oid": "a559e46379e13ceab0cbc61f"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/ClanTech/Energy/VandalElectroProd",
+"XP": 450000,
+"ItemId": {
+"$oid": "046a0df5cafda61372bb912d"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/CutlassPoignardSwords",
+"XP": 0,
+"ItemId": {
+"$oid": "6786d50638ba8abc4b5305e5"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/Melee/Glaive/CrpGhostCatcherGlaive/CrpGhostCatcherGlaive",
+"XP": 50000,
+"ItemId": {
+"$oid": "94e0d3baa9f948b24e6384bb"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Swords/TnoRapier/TnoRapier",
+"XP": 450000,
+"ItemId": {
+"$oid": "87ea7ff58db0674679279973"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Soma/SomaDualKamas",
+"XP": 450000,
+"ItemId": {
+"$oid": "bef59fe6ff233d5f6cedd15d"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Glaives/PrimeGlaive/PrimeGlaiveWeapon",
+"XP": 450000,
+"ItemId": {
+"$oid": "7428a656b3ee4d3b5a104129"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/ClanTech/Energy/ElectroProd",
+"XP": 450000,
+"ItemId": {
+"$oid": "3b048a8b405bfdc94e7ed827"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Grineer/Melee/GrineerTylAxeAndBoar/RegorAxeShield",
+"XP": 0,
+"ItemId": {
+"$oid": "50c7c006314d3441b8a6171f"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Gauntlet/Gauntlet",
+"XP": 0,
+"ItemId": {
+"$oid": "f36cb62b892e6161be2d740a"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Archwing/Melee/PrimeCorufell/PrimeCorufellScytheWeapon",
+"XP": 50000,
+"ItemId": {
+"$oid": "bd1531c83764fbda3108d448"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/MK1Series/MK1Furax",
+"XP": 450000,
+"ItemId": {
+"$oid": "96ef2ad6b97e670346c8adfe"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Infested/InfestedLich/Melee/CodaMire",
+"XP": 450000,
+"ItemId": {
+"$oid": "d52721e719bc143efb02bebb"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Maces/PaladinMace/PaladinMaceWeapon",
+"XP": 50000,
+"ItemId": {
+"$oid": "5c62b3a23a3c563e4bd6cee6"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Polearms/PrimePolearmWeapon",
+"XP": 50000,
+"ItemId": {
+"$oid": "b540b30e039f3a254d6168bd"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Warfan/WarfanWeapon",
+"XP": 50000,
+"ItemId": {
+"$oid": "f96b648a0ba6eab94639447b"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/DualKamas/SingleKama",
+"XP": 0,
+"ItemId": {
+"$oid": "b289f2244ac9778d8da8eee4"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/PrimeKogake/KogakePrimeKnuckles",
+"XP": 50000,
+"ItemId": {
+"$oid": "c0b6fce2de53790aa34b6cf6"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Swords/PangolinSword/PangolinLongSword",
+"XP": 450000,
+"ItemId": {
+"$oid": "0323d342df6a8f931a432f0a"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/DualShortSword/DualHeatSwords",
+"XP": 450000,
+"ItemId": {
+"$oid": "70c2903f7a8d03aa782a65e0"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Swords/HeatSword/HeatLongSword",
+"XP": 450000,
+"ItemId": {
+"$oid": "0d270659f72ada9b2f32751e"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Polearms/PrimeGuandao/PrimeGuandaoWeapon",
+"XP": 450000,
+"ItemId": {
+"$oid": "7a4c75d4dc99e04cf0e98b3b"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Staff/SingleStaff",
+"XP": 0,
+"ItemId": {
+"$oid": "6694c34310ba58e3d2762bdc"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Polearms/PolearmWeapon",
+"XP": 450000,
+"ItemId": {
+"$oid": "a1235a8c93b7a88612f70c97"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/Melee/CrpBriefcaseScythe/CrpBriefcaseScythe",
+"XP": 0,
+"ItemId": {
+"$oid": "cfa701cd2631d00b26d794d3"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/Melee/AHBoltace",
+"XP": 450000,
+"ItemId": {
+"$oid": "3f897142fe716b1415ce6a66"
+}
+},
+{
+"ItemType": "/Lotus/Weapons/Grineer/Melee/GrnTrident/GrnTridentWeapon",
+"XP": 0,
+"ItemId": {
+"$oid": "6a8a616fc3b290d08edddfcd"
+}
+}
+],
+"XPInfo": [
+{
+"ItemType": "/Lotus/Weapons/Corpus/Pistols/CrpSonificBlastor/CrpBlastorWeapon",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Infested/Pistols/InfKitGun/Clips/InfSmallClip/InfModularClipSmallPart",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Swords/PangolinSword/PangolinLongSword",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipFive",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Infested/InfestedLich/LongGuns/CodaBubonico/CodaBubonicoCannon",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/DualKamas/SingleKama",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Handle/HandleOne",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/LongGuns/PrimeNagantaka/PrimeNagantakaWeapon",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Handle/HandleTwo",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Syndicates/NewLoka/Pistols/NLCastanas",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Bows/PrimeHuntingBow",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/Pistols/CorpusHandShotgun/CorpusHandCannon",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/LongGuns/CrpSplitLaser/CrpSplitLaser",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/LongGuns/WraithLatron/WraithLatron",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Grineer/Pistols/GrnQueenGuardDualPistol/GrnQueenGuardDualPistols",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Polearms/PolearmWeapon",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Powersuits/Necro/NekrosPrime",
+"XP": 900000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Pistols/PrimeHystrix/PrimeHystrixWeapon",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Powersuits/Dagath/Dagath",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/LongGuns/PrimeStrun/PrimeStrunWeapon",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Grineer/Melee/GrnEgyptSwd/DualGrnEgyptSwdWeapon",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Grineer/LongGuns/GrnHarpoonGun/GrnHarpoonGun",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/LongGuns/PrimeAfentis/PrimeAfentisWeapon",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/ClanTech/Energy/VandalElectroProd",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Powersuits/Duelist/Duelist",
+"XP": 900000
+},
+{
+"ItemType": "/Lotus/Powersuits/Excalibur/ExcaliburUmbra",
+"XP": 900000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/LongGuns/SapientPrimary/SapientPrimaryWeapon",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Powersuits/Ninja/Ninja",
+"XP": 900000
+},
+{
+"ItemType": "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardInfestedB/HoverboardInfestedBEngine",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Powersuits/Bard/Bard",
+"XP": 900000
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/Melee/Glaive/CrpGhostCatcherGlaive/CrpGhostCatcherGlaive",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Powersuits/Alchemist/Alchemist",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Infested/LongGuns/InfCrpShockSwarm/InfCrpShockSwarmRifle",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/Melee/CrpBriefcaseScythe/CrpBriefcaseScythe",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/ThrowingWeapons/LiDagger/LiDagger",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/LongGuns/Machinegun/SupraVandal",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Powersuits/Cowgirl/Cowgirl",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/ClanTech/Energy/DeraVandal",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/LongGuns/CrpShotgun/CrpShotgun",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadTazron",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Pistol/CrossBow",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Glaives/PrimeGlaive/PrimeGlaiveWeapon",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Infested/InfestedLich/Melee/CodaMire",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Swords/TnoRapier/TnoRapier",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/LongGuns/CrpBFG/CrpBFG",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Polearms/PrimePolearmWeapon",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Powersuits/Banshee/Banshee",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Grineer/LongGuns/GrnGrenadeLauncher/GrnGrenadeLauncher",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Pistols/PrimeEpitaph/PrimeEpitaphSidearmWeapon",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Cephalon/Primary/CephPrimary/CephPrimary",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Pistols/SomaSidearm/AkimboSomaPistols",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Corpus/Pistols/CrpHandRL/PrismaAngstrum",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Powersuits/Revenant/Revenant",
+"XP": 900000
+},
+{
+"ItemType": "/Lotus/Weapons/Grineer/Melee/GrnTrident/GrnTridentWeapon",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelBPart",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceSpeedIStatusI",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Powersuits/Sentient/Sentient",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/CutlassPoignardSwords",
+"XP": 225000
+},
+{
+"ItemType": "/Lotus/Weapons/Grineer/Bows/GrnBow/GrnBowWeapon",
+"XP": 450000
+},
+{
+"ItemType": "/Lotus/Powersuits/AntiMatter/NovaPrime",
+"XP": 450000
+}
+],
+"PendingRecipes": [
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/SentientBlueprint",
+"CompletionDate": {
+"$date": {
+"$numberLong": "1793983080570"
+}
+}
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/PriestChassisBlueprint",
+"CompletionDate": {
+"$date": {
+"$numberLong": "1794163615570"
+}
+}
+},
+{
+"ItemType": "/Lotus/Types/Recipes/Weapons/SarofangPrimeBlueprint",
+"CompletionDate": {
+"$date": {
+"$numberLong": "1794077314570"
+}
+}
+},
+{
+"ItemType": "/Lotus/Types/Recipes/WarframeRecipes/GunslingerHelmetBlueprint",
+"CompletionDate": {
+"$date": {
+"$numberLong": "1794128913570"
+}
+}
+}
+],
+"Upgrades": [
+{
+"ItemType": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+"UpgradeFingerprint": "{\"compat\": \"/Lotus/Weapons/Tenno/Archwing/Primary/TnShieldframeArchGun/TnShieldFrameArchGun\", \"lim\": 0, \"lvlReq\": 9, \"lvl\": 0, \"rerolls\": 19, \"pol\": \"AP_ATTACK\", \"buffs\": [{\"Tag\": \"WeaponFactionDamageCorpus\", \"Value\": 85600382}, {\"Tag\": \"WeaponAmmoEfficiency\", \"Value\": 927774495}, {\"Tag\": \"WeaponCorrosiveDamageMod\", \"Value\": 692180323}], \"curses\": []}",
+"ItemId": {
+"$oid": "3a9aca5e176132ed069f14f1"
+}
+},
+{
+"ItemType": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+"UpgradeFingerprint": "{\"compat\": \"/Lotus/Weapons/Tenno/Melee/Polearms/Naginata/ShrineMaidenNaginataWeapon\", \"lim\": 0, \"lvlReq\": 12, \"lvl\": 0, \"rerolls\": 18, \"pol\": \"AP_ATTACK\", \"buffs\": [{\"Tag\": \"WeaponMeleeParryAngleMod\", \"Value\": 86396863}, {\"Tag\": \"WeaponFactionDamageScaldra\", \"Value\": 376219229}, {\"Tag\": \"WeaponFactionDamageTechrot\", \"Value\": 1010392821}], \"curses\": [{\"Tag\": \"WeaponSlashDamageMod\", \"Value\": 949680400}]}",
+"ItemId": {
+"$oid": "2e76128b473544f9ea83bf00"
+}
+},
+{
+"ItemType": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+"UpgradeFingerprint": "{\"compat\": \"/Lotus/Weapons/Infested/Pistols/InfKitGun/Barrels/InfBarrelBeam/InfModularBarrelBeamPart\", \"lim\": 0, \"lvlReq\": 15, \"lvl\": 0, \"rerolls\": 11, \"pol\": \"AP_ATTACK\", \"buffs\": [{\"Tag\": \"WeaponFactionDamageTechrot\", \"Value\": 876920863}, {\"Tag\": \"WeaponFreezeDamageMod\", \"Value\": 715774335}, {\"Tag\": \"WeaponMagazineReloadHolstered\", \"Value\": 689467358}], \"curses\": []}",
+"ItemId": {
+"$oid": "546e035a292bd156db946570"
+}
+},
+{
+"ItemType": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+"UpgradeFingerprint": "{\"compat\": \"/Lotus/Weapons/Tenno/Melee/Staff/SingleStaff\", \"lim\": 0, \"lvlReq\": 14, \"lvl\": 0, \"rerolls\": 17, \"pol\": \"AP_ATTACK\", \"buffs\": [{\"Tag\": \"WeaponStunChanceMod\", \"Value\": 78806495}, {\"Tag\": \"WeaponRadiationDamageMod\", \"Value\": 976731208}, {\"Tag\": \"WeaponMeleeComboPointsOnHitMod\", \"Value\": 189106962}], \"curses\": [{\"Tag\": \"WeaponFactionDamageGrineer\", \"Value\": 694225168}]}",
+"ItemId": {
+"$oid": "c5c5b37af85e06a11dad09b2"
+}
+},
+{
+"ItemType": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+"UpgradeFingerprint": "{\"compat\": \"/Lotus/Weapons/Corpus/Melee/Polearm/CorpusPolearm01/CorpusPolearmWeapon\", \"lim\": 0, \"lvlReq\": 15, \"lvl\": 0, \"rerolls\": 13, \"pol\": \"AP_ATTACK\", \"buffs\": [{\"Tag\": \"WeaponClipMaxMod\", \"Value\": 116402387}, {\"Tag\": \"WeaponAmmoEfficiency\", \"Value\": 402830441}, {\"Tag\": \"WeaponPunctureDepthMod\", \"Value\": 776915262}], \"curses\": []}",
+"ItemId": {
+"$oid": "71299889a01ac9927f9d3e64"
+}
+}
+]
+}

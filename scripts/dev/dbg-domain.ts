@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+import { Domain, loadGameData } from '../../src/core/gamedata';
+import { parseInventory } from '../../src/core/inventory';
+const gd = loadGameData('resources/gamedata.json');
+const inv = parseInventory(JSON.parse(fs.readFileSync('tests/fixtures/inventory.sample.json', 'utf8')), gd, 'import');
+const d = new Domain(gd, { fetchedAt: null, bySlug: {} }, inv);
+console.log('rows', d.inventoryRows().length, 'sets>0', d.sets().filter((s) => s.have > 0).length, 'sets', d.sets().length);
+const m = d.mastery(); console.log('mastered', m.mastered, m.total, 'relics', d.relicPlan('radiant', true).length);
+const set = Object.values(gd.items).find((i) => i.tags.includes('set') && i.tags.includes('prime'));
+console.log(set?.name.en, set?.parts);

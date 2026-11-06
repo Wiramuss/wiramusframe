@@ -1,0 +1,17 @@
+node_modules/
+dist/
+dist-electron/
+release/
+*.log
+tests/fixtures/generated/
+.cache/
+
+# kişisel / referans veriler: depoya girmez
+replica/
+scripts/__pycache__/
+*.pyc
+profile/
+captures/
+scan-debug.log
+inventory.json
+settings.json
