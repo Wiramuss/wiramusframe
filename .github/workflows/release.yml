@@ -62,7 +62,7 @@ jobs:
           sudo apt-get update -qq && sudo apt-get install -y -qq clamav
           sudo systemctl stop clamav-freshclam || true
           sudo freshclam
-          clamscan -r --infected out | tee out/scan-clamav.txt
+          clamscan -r --infected --max-filesize=1000M --max-scansize=2000M --max-files=100000 --alert-exceeds-max=yes out | tee out/scan-clamav.txt
       - uses: actions/upload-artifact@v4
         with: { name: clamav, path: out/scan-clamav.txt }
 
