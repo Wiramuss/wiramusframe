@@ -1,0 +1,86 @@
+# Her "v*" etiketinde: test et, Windows kurulumunu derle, iki antivirüsle tara,
+# SHA-256 üret ve hepsini GitHub Release'e yükle. Tarama raporları da sürüme eklenir.
+name: release
+
+on:
+  push:
+    tags: ['v*']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: npm ci
+      - run: pip install pillow
+      - run: python scripts/gen_fixtures.py 60 99
+      - run: npm run typecheck
+      - run: npm test
+      - run: npm run dist
+        env:
+          # İmza sertifikası tanımlıysa kurulum dosyası imzalanır; yoksa imzasız derlenir.
+          CSC_LINK: ${{ secrets.WIN_CSC_LINK }}
+          CSC_KEY_PASSWORD: ${{ secrets.WIN_CSC_KEY_PASSWORD }}
+          CSC_IDENTITY_AUTO_DISCOVERY: 'false'
+      - name: Windows Defender taraması
+        shell: pwsh
+        run: |
+          $exe = Get-ChildItem release -Filter *.exe | Select-Object -First 1
+          Update-MpSignature -ErrorAction SilentlyContinue
+          & "$env:ProgramFiles\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File $exe.FullName -DisableRemediation | Tee-Object scan-defender.txt
+          if ($LASTEXITCODE -ne 0) { throw "Defender bir tehdit buldu" }
+      - name: SHA-256
+        shell: pwsh
+        run: |
+          Get-ChildItem release -Filter *.exe | ForEach-Object { "$((Get-FileHash $_.FullName -Algorithm SHA256).Hash.ToLower())  $($_.Name)" } | Out-File -Encoding ascii SHA256SUMS.txt
+          Get-Content SHA256SUMS.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: windows
+          path: |
+            release/*.exe
+            SHA256SUMS.txt
+            scan-defender.txt
+
+  clamav:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with: { name: windows, path: out }
+      - name: ClamAV taraması
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq clamav
+          sudo systemctl stop clamav-freshclam || true
+          sudo freshclam
+          clamscan -r --infected out | tee out/scan-clamav.txt
+      - uses: actions/upload-artifact@v4
+        with: { name: clamav, path: out/scan-clamav.txt }
+
+  publish:
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: [build, clamav]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with: { path: out, merge-multiple: true }
+      - uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            out/release/*.exe
+            out/SHA256SUMS.txt
+            out/scan-defender.txt
+            out/scan-clamav.txt
+          body: |
+            Kurulum: `WiramusFrame-Setup-*.exe` dosyasını indir ve çalıştır.
+            Virüs taraması: Windows Defender ve ClamAV raporları bu sürüme eklidir.
+            Doğrulama: `SHA256SUMS.txt` içindeki değeri `certutil -hashfile <dosya> SHA256` çıktısıyla karşılaştır.
