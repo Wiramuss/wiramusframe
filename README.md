@@ -72,6 +72,15 @@ askıya alınmasına (ban) yol açabilir**. Açmadan önce uygulama ayrı bir so
 Bu özelliği açmanın tüm sonuçları kullanıcıya aittir; ayrıntılar [TERMS.md](TERMS.md).
 Riskten kaçınmak için kapalı bırak; envanterini **ekrandan tarayarak** (Ctrl+Shift+I) veya JSON içe aktararak doldurabilirsin.
 
+## Kod imzalama politikası / Code signing policy
+
+Windows sürümleri için ücretsiz kod imzalama [SignPath.io](https://about.signpath.io/) tarafından sağlanır, sertifika [SignPath Foundation](https://signpath.org/) tarafındandır.
+*Free code signing provided by [SignPath.io](https://about.signpath.io/), certificate by [SignPath Foundation](https://signpath.org/).*
+
+- Kurulum dosyaları yalnızca bu depodaki kaynak koddan, GitHub Actions üzerinde derlenir ve imzalanır.
+- Ekip: yazar ve onaylayıcı (committer/approver) — [@Wiramuss](https://github.com/Wiramuss).
+- Gizlilik: [PRIVACY.md](PRIVACY.md). Uygulama, kullanıcı açıkça istemedikçe (warframe.market girişi) hiçbir sisteme veri aktarmaz.
+
 ## Destek ol
 
 Proje tamamen ücretsiz ve gönüllü. Geliştirmeye katkı için:
